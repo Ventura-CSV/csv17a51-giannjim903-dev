@@ -96,3 +96,4 @@ def test_bijective_false_inj_only():
 @pytest.mark.T4
 def test_bijective_false_sur_only():
     assert is_bijective(sur, sur_T) is False
+'sss'
